@@ -6,8 +6,7 @@
 * git commit (-a, -m) (save)
 * git push (send)
 * git pull (receive)
-
-
+* git rm (remove)
 ------------------------
 
 # **Git VsCode**
