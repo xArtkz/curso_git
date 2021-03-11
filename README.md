@@ -7,6 +7,7 @@
 * git push (send)
 * git pull (receive)
 * git rm (remove)
+* git log
 ------------------------
 
 # **Git VsCode**
