@@ -3,7 +3,7 @@
 * git status
 * git add
 * git add . (all files)
-* git commit (-a, -m) (save)
+* git commit (-a, -m) (update)
 * git push (send)
 * git pull (receive)
 * git rm (remove)
