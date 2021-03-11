@@ -5,6 +5,7 @@
 * git add . (all files)
 * git commit (-a, -m) (save)
 * git push (send)
+* git pull (receive)
 
 
 ------------------------
