@@ -9,6 +9,7 @@
 * git rm (remove)
 * git log
 * git mv (move and rename)
+* git checkout (original state)
 ------------------------
 
 # **Git VsCode**
