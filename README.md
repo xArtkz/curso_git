@@ -10,7 +10,9 @@
 * git log
 * git mv (move and rename)
 * git checkout (original state)
-* .gitignore
+* .gitignore (first add the rule, then create the file)
+* git reset (--hard origin/master)
+
 ------------------------
 
 # **Git VsCode**
