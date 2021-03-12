@@ -15,3 +15,4 @@
 * M = Modified
 * U = Untracked
 * A = Add to project
+* R = Rename
