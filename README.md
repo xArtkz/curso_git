@@ -8,6 +8,7 @@
 * git pull (receive)
 * git rm (remove)
 * git log
+* git mv (move and rename)
 ------------------------
 
 # **Git VsCode**
