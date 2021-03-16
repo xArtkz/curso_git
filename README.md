@@ -12,7 +12,9 @@
 * git checkout (original state)
 * .gitignore (first add the rule, then create the file)
 * git reset (--hard origin/master)
-
+* git branch
+* git branch <name>
+* git branch (-d --delete)
 ------------------------
 
 # **Git VsCode**
