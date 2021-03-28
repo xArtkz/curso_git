@@ -12,6 +12,12 @@
 * git checkout (original state)
 * .gitignore (first add the rule, then create the file)
 * git reset (--hard origin/master)
+* git branch
+* git branch <name>
+* git branch (-d --delete)
+* git checkout *branch_name* (change branch)
+* git checkout -b *branch_name* (create and change branch)
+* git merge
 
 ------------------------
 
