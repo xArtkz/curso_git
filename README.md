@@ -17,7 +17,7 @@
 * git branch (-d --delete)
 * git checkout *branch_name* (change branch)
 * git checkout -b *branch_name* (create and change branch)
-* git merge
+* git merge <name>
 
 ------------------------
 
