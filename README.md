@@ -24,6 +24,10 @@
 * git stash show -p
 * git stash clear
 * git stash drop <id> (remove one stash)
+* git show
+* git show <nome>
+* git checkout <name> (change tag)
+* git tag
 * git tag -a <name> -m <msg>
 ------------------------
 
