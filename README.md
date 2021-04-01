@@ -29,6 +29,8 @@
 * git checkout <name> (change tag)
 * git tag
 * git tag -a <name> -m <msg>
+* git push origin <tagName>
+* git push origin --tags (all tags)
 ------------------------
 
 # **Git VsCode**
