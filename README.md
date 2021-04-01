@@ -18,7 +18,13 @@
 * git checkout *branch_name* (change branch)
 * git checkout -b *branch_name* (create and change branch)
 * git merge <name>
-
+* git stash
+* git stash list
+* git stash apply <id>
+* git stash show -p
+* git stash clear
+* git stash drop <id> (remove one stash)
+* git tag -a <name> -m <msg>
 ------------------------
 
 # **Git VsCode**
